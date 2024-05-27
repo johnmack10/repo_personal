@@ -17,6 +17,7 @@ Proceso: Si lleva entre mas de 12 y 24 unidades se le hace un 10% de descuento
          Si lleva mas de 24 unidades se le hace un 15% de descuento
          Siendo jubilado se le hace un 10% al total 
 Salida: total(float)
+
 """
 
 unidades = int(input("Cuantas unidades quieres llevar: "))
