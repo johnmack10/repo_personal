@@ -23,7 +23,7 @@ unidades = int(input("Cuantas unidades quieres llevar: "))
 jubilado = input("Es jubilado: (si/no) ")
 costo = 1000 * unidades
 if unidades > 12 and unidades <= 24:
-    total = costo - costo * 0.1
+    total = costo - costo * 0.10
 elif unidades > 24:
     total = costo - costo * 0.15
 else:
